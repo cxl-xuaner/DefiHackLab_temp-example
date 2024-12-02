@@ -2,7 +2,7 @@
 	PROJECT NAME：EGD Finance 
 	CA：0x34Bd6Dba456Bc31c2b3393e499fa10bED32a9370 
 	EVM:BSC
-  HASH:https://phalcon.blocksec.com/tx/bsc/0x50da0b1b6e34bce59769157df769eb45fa11efc7d0e292900d6b0a86ae66a2b3
+  	HASH: https://phalcon.blocksec.com/tx/bsc/0x50da0b1b6e34bce59769157df769eb45fa11efc7d0e292900d6b0a86ae66a2b3
 	DETAIL:
 	https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/
 	step：
